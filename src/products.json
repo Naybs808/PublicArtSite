@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "title": "Stage of Life - 60x60cm",
+      "id": "stage_of_life_full",
+      "description": "Grab a full size print",
+      "price": "200",
+      "image": "StageScan.jpg",
+      "quantity": 4
+    },
+    {
+      "title": "Stage of Life - 30x30cm",
+      "id": "stage_of_life_half",
+      "description": "Grab a half size print.",
+      "price": "50",
+      "image": "StageScan.jpg",
+      "quantity": 4
+    },
+    {
+      "title": "Changes",
+      "id": "changes",
+      "description": "Canavs of the single cover for changes.",
+      "price": "350",
+      "image": "Butterfly.jpeg",
+      "quantity": 1
+    },
+    {
+      "title": "Wimbledon - Original",
+      "id": "wimbledon",
+      "description": "Full size original acrylic",
+      "price": "700",
+      "image": "Wimbledon.jpeg",
+      "quantity": 1
+    },
+    {
+      "title": "Daisy Field  - Original",
+      "id": "daisy",
+      "description": "Full size original acrylic",
+      "price": "600",
+      "image": "DaisyField.jpeg",
+      "quantity": 1
+    },
+    {
+      "title": "Winter Sun  - Original",
+      "id": "winter_sun",
+      "description": "Full size original acrylic",
+      "price": "1200",
+      "image": "WinterSun.jpeg",
+      "quantity": 1
+    }
+  ]
+}
