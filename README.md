@@ -7,6 +7,13 @@ To build this website locally, clone the repo to your local machine.
 
 Ensure you have yarn installed to the path of the machine you are on (https://classic.yarnpkg.com/lang/en/).
 
-Run yarn install & yarn start.
+Navigate to the PublicArtSite directory:
+
+    cd PublicArtSite
+
+Then run:
+
+    yarn install
+    yarn start.
 
 A local version of the website should be running on http://localhost:3000.
