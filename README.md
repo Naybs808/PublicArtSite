@@ -14,6 +14,6 @@ Navigate to the PublicArtSite directory:
 Then run:
 
     yarn install
-    yarn start.
+    yarn start
 
 A local version of the website should be running on http://localhost:3000.
