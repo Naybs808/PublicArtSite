@@ -17,3 +17,7 @@ Then run:
     yarn start
 
 A local version of the website should be running on http://localhost:3000.
+
+Stock levels are kept track of using a firestore cloud database.
+
+Purchases are processed using StripeJS.
